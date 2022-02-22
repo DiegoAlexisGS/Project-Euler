@@ -1,2 +1,2 @@
 # project-euler
-Hello there. This is my repository about project Euler solutions.
+Welcome to my Project Euler repository. In this repository you will find my solutions for problems present on Project Euler.
